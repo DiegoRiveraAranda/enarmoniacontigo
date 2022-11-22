@@ -1,0 +1,19 @@
+
+.box{
+    height: 50px;
+    width: 100px;
+    background-color: green;
+    margin: 5px;
+    justify-content: center;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    align-items: center;
+    line-height: 50px;
+    
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap; 
+}
