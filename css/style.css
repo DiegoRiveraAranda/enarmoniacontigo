@@ -131,6 +131,51 @@ body {
 	background-size: 50px;
 }
 
+.contenidoPrincipal-cursos-link:nth-child(10) a:before {
+	background: url(../img/logos/talleres.png) no-repeat;
+	background-size: 50px;
+}
+
+.contenidoPrincipal-cursos-link:nth-child(11) a:before {
+	background: url(../img/logos/psicoeducativo.png) no-repeat;
+	background-size: 50px;
+}
+
+.contenidoPrincipal-cursos-link:nth-child(12) a:before {
+	background: url(../img/logos/servicios.png) no-repeat;
+	background-size: 50px;
+}
+
+.contenidoPrincipal-cursos-link:nth-child(13) a:before {
+	background: url(../img/logos/futuro.png) no-repeat;
+	background-size: 50px;
+}
+
+.contenidoPrincipal-cursos-link:nth-child(14) a:before {
+	background: url(../img/logos/electiva.png) no-repeat;
+	background-size: 50px;
+}
+
+.contenidoPrincipal-cursos-link:nth-child(15) a:before {
+	background: url(../img/logos/equipo.png) no-repeat;
+	background-size: 50px;
+}
+
+.contenidoPrincipal-cursos-link:nth-child(16) a:before {
+	background: url(../img/logos/pap.png) no-repeat;
+	background-size: 50px;
+}
+
+.contenidoPrincipal-cursos-link:nth-child(17) a:before {
+	background: url(../img/logos/asesoria.png) no-repeat;
+	background-size: 50px;
+}
+
+.contenidoPrincipal-cursos-link:nth-child(18) a:before {
+	background: url(../img/logos/eventos.png) no-repeat;
+	background-size: 50px;
+}
+
 
 .contenidoPrincipal-cursos-link:nth-child(8) a:before {
 	background: url(../img/logos/hpv.png) no-repeat;
