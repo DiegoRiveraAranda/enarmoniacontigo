@@ -131,6 +131,21 @@ body {
 	background-size: 50px;
 }
 
+.contenidoPrincipal-cursos-link:nth-child(8) a:before {
+	background: url(../img/logos/hpv.png) no-repeat;
+	background-size: 50px;
+}
+
+.contenidoPrincipal-cursos-link:nth-child(9) a:before {
+	background: url(../img/logos/yopuedosentirmebien.png) no-repeat;
+	background-size: 50px;
+}
+
+.contenidoPrincipal-cursos-link:nth-child(10) a:before {
+	background: url(../img/logos/talleres.png) no-repeat;
+	background-size: 50px;
+}
+
 .contenidoPrincipal-cursos-link:nth-child(10) a:before {
 	background: url(../img/logos/talleres.png) no-repeat;
 	background-size: 50px;
@@ -177,20 +192,7 @@ body {
 }
 
 
-.contenidoPrincipal-cursos-link:nth-child(8) a:before {
-	background: url(../img/logos/hpv.png) no-repeat;
-	background-size: 50px;
-}
 
-.contenidoPrincipal-cursos-link:nth-child(9) a:before {
-	background: url(../img/logos/yopuedosentirmebien.png) no-repeat;
-	background-size: 50px;
-}
-
-.contenidoPrincipal-cursos-link:nth-child(10) a:before {
-	background: url(../img/logos/talleres.png) no-repeat;
-	background-size: 50px;
-}
 
 
 
